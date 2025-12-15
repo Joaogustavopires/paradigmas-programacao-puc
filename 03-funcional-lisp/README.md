@@ -7,9 +7,9 @@ Este módulo aborda o Paradigma Funcional utilizando a linguagem **LISP**, com f
 
 O trabalho se concentrou em funções recursivas para a manipulação e modificação de listas:
 
-1.  [cite_start]**Acesso por Posição (`posicao`):** Implementação de uma função recursiva que, dada uma posição (índice) e uma lista, retorna o elemento correspondente[cite: 291].
+1.  **Acesso por Posição (`posicao`):** Implementação de uma função recursiva que, dada uma posição (índice) e uma lista, retorna o elemento correspondente[cite: 291].
     * Demonstração do controle de fluxo através de recursão e funções primárias (`car`, `cdr`).
-2.  [cite_start]**Substituição Condicional (`substitui`):** Função recursiva que substitui elementos de uma lista numérica que sejam maiores do que o produto de dois números fornecidos pelo átomo `'abacaxi`[cite: 296, 297].
+2.  [cite_start]**Substituição Condicional (`substitui`):** Função recursiva que substitui todos os elementos da lista que sejam maiores do que o produto de dois números fornecidos pelo átomo `'abacaxi`[cite: 296, 297].
     * Demonstração da lógica condicional recursiva e da construção de novas listas através da função `cons`.
 
 ### 🗝️ Conceitos Chave Aplicados
@@ -25,5 +25,3 @@ O trabalho se concentrou em funções recursivas para a manipulação e modifica
 * **Enunciado:** Arquivo `Lista 9 - Paradigma funcional.pdf` com os enunciados originais dos exercícios.
 
 ---
-
-O próximo passo é o último paradigma: **Orientado a Objetos (Java)** na pasta **`04-orientado-objetos-java/`**. Gostaria de gerar o `README.md` para esse módulo?
