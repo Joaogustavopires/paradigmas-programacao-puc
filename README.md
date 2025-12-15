@@ -21,5 +21,7 @@ O objetivo é demonstrar a capacidade de adaptação e a proficiência na aplica
 ## 🧑‍💻 Instituição
 
 **Disciplina:** Linguagens de Programação
+
 **Professora:** M. Sc. Luciana De Nardin
+
 **Instituição:** Pontifícia Universidade Católica de Minas Gerais - Poços de Caldas
