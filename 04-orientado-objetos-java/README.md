@@ -1,5 +1,5 @@
 # 04 - Paradigma Orientado a Objetos (Java)
-## Herança, Encapsulamento e Sobrescrita de Métodos (Lista 10)
+## Herança, Encapsulamento e Sobrescrita de Métodos 
 
 Este módulo aborda o **Paradigma Orientado a Objetos (OO)** utilizando a linguagem **Java**. O foco é na correta modelagem de classes, no uso de **Herança** para especialização e na aplicação dos princípios de **Encapsulamento**.
 
