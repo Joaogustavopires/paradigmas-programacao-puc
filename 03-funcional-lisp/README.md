@@ -21,5 +21,5 @@ O trabalho se concentrou em funções recursivas para a manipulação e modifica
 
 ### 📂 Arquivos Chave
 
-* **Código Fonte:** O arquivo `lista09_funcional.lisp` contém o código-fonte LISP para a resolução dos problemas 2 e 3.
+* **Código Fonte:** O arquivo `paradigma_funcional.lisp` contém o código-fonte LISP para a resolução dos problemas 2 e 3.
 * **Enunciado:** Arquivo `Lista 9 - Paradigma funcional.pdf` com os enunciados originais dos exercícios.
