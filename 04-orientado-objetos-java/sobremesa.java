@@ -1,11 +1,11 @@
 package com.mycompany.lista_10_java;
 
-public class Sobremesa {
+public class sobremesa {
     
     private String nome;
     private int calorias;
    
-    public Sobremesa(String nome, int calorias) {
+    public sobremesa(String nome, int calorias) {
         this.nome = nome;
         this.calorias = calorias;
     }
@@ -39,3 +39,4 @@ public class Sobremesa {
    
    
 }
+
