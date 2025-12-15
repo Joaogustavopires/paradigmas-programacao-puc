@@ -1,4 +1,4 @@
-package com.mycompany.lista_10_java;
+package com.mycompany.main.java;
 
 public class LISTA_10_JAVA {
     
