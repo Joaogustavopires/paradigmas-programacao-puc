@@ -1,11 +1,11 @@
-package com.mycompany.lista_10_java;
+package com.mycompany.main.java;
 
 
-public class GeleiaEmCompota extends Sobremesa {
+public class geleia-em-compota extends Sobremesa {
    
     private String sabor;
 
-   public GeleiaEmCompota(String sabor) {
+   public geleia-em-compota(String sabor) {
       
         super("Geléia em Compota de " + sabor, 5);
         this.sabor = sabor;
@@ -27,3 +27,4 @@ public class GeleiaEmCompota extends Sobremesa {
         return !this.sabor.equalsIgnoreCase("alcaçuz");
     }
 }
+
