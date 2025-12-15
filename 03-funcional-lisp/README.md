@@ -1,5 +1,5 @@
 # 03 - Paradigma Funcional (LISP)
-## Foco: Manipulação Recursiva de Listas (Lista 9)
+## Foco: Manipulação Recursiva de Listas 
 
 Este módulo aborda o Paradigma Funcional utilizando a linguagem **LISP**, com foco na **recursão** para processamento estrutural de listas, demonstrando o uso de funções puras e imutáveis.
 
