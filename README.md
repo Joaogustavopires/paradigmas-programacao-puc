@@ -48,7 +48,6 @@ Demonstrar a capacidade de compreensão e aplicação de distintos paradigmas de
 ## 🎓 Contexto Acadêmico
 
 * **Disciplina:** Linguagens de Programação
-* **Professora:** M. Sc. Luciana De Nardin
 * **Instituição:** Pontifícia Universidade Católica de Minas Gerais (PUC Minas – Poços de Caldas)
 
 ---
